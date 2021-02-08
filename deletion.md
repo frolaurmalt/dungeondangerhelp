@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "User data teletion request"
