@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "rivacy Policy"
+title: "Privacy Policy"
 permalink: /privacypolicy
 ---
 **Privacy Policy**
